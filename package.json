@@ -1,0 +1,26 @@
+{
+  "name": "deferrable",
+  "version": "0.1.0",
+  "description": "A system of abusing callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/tap-prettify test/*.test.js"
+  },
+  "devDependencies": {
+    "tap-prettify": "~0.0.2",
+    "tap": "~0.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewhayward/deferrable.git"
+  },
+  "keywords": [
+    "callbacks"
+  ],
+  "author": "Andrew Hayward",
+  "license": "MPLv2",
+  "bugs": {
+    "url": "https://github.com/andrewhayward/deferrable/issues"
+  },
+  "homepage": "https://github.com/andrewhayward/deferrable"
+}
