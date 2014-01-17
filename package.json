@@ -1,5 +1,5 @@
 {
-  "name": "deferrable",
+  "name": "deferred-chain",
   "version": "0.1.0",
   "description": "A system of abusing callbacks",
   "main": "index.js",
